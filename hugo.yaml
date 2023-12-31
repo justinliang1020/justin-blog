@@ -7,10 +7,10 @@ menu:
   main:
     - name: About
       url: about
+    - name: Archive
+      url: archives
 
 params:
-  env: production
-
   homeInfoParams:
     Title: "Justin Liang Blog"
     Content: >
