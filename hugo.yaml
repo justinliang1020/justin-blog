@@ -1,4 +1,26 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Justin Liang Blog
 theme: ["PaperMod"]
+
+menu:
+  main:
+    - name: About
+      url: about
+
+params:
+  env: production
+
+  homeInfoParams:
+    Title: "Justin Liang Blog"
+    Content: >
+      Hi there, I am Justin 🐺
+
+      - I am a software engineer living in New York City.
+  socialIcons:
+    - name: github
+      title: Visit my Github page
+      url: https://github.com/justinliang1020
+    - name: Twitter
+      title: Visit my Twitter page
+      url: https://twitter.com/justinliang1020
