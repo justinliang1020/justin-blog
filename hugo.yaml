@@ -21,6 +21,10 @@ params:
     - name: github
       title: Visit my Github page
       url: https://github.com/justinliang1020
-    - name: Twitter
+    - name: twitter
       title: Visit my Twitter page
       url: https://twitter.com/justinliang1020
+    - name: linkedin
+      title: Visit my Linkedin page
+      url: https://www.linkedin.com/in/justinliang1020/
+  showToc: true
