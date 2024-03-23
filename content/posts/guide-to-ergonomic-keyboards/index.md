@@ -13,7 +13,7 @@ date = 2024-03-23
 
 I began dealing with RSI(repetitive strain injury) in my arms in February 2023. It started as a minor pain in my right forearm whenever I would type for a long period of time, and progressed to the point of losing the ability to type or use a mouse for longer than 5 seconds at a time. As a college new grad about to start a full-time programming job in July 2023, watching myself day-by-day lose the ability to use a computer terrified me.
 
-This put me on a timeline: I needed to recover within the next 5 months before my job would start, or else I would effectively become unemployed.
+This put me on a timeline: I needed to recover within the next 5 months before my job would start, or else I would become unable to do my job and unemployed.
 
 Here is everything I did to heal myself. Take everything I say here with a grain of salt, as the fixes I implemented are personal to me. Every person's physical differences will change what works and what doesn't.
 
@@ -29,7 +29,7 @@ Here is everything I did to heal myself. Take everything I say here with a grain
 * **Physical therapy exercises:** While they provided some temporary relief for some pain, doing these any type of stretching or exercises didn't help the root cause of my RSI
 * **Anti-inflammatory medication:** These can defintely help temporarily relieve inflammation, but aren't a good long term solution if your RSI is chronic.
 
-Eventually, after a combination of rest and better ergonomic practices on the computer, I was able to overcome 90% of my RSI pain and have been able to work in my currently programming position without it hindering me for almost the past year.
+Eventually, after a combination of rest and better ergonomic practices on the computer, I was able to overcome 90% of my RSI pain and have been able to work in my currently programming position without it hindering me for about the past year.
 
 ## Computers are un-ergonomic by default
 
