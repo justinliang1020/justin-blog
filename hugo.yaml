@@ -16,8 +16,6 @@ params:
   homeInfoParams:
     Title: "Justin Liang"
     Content: >
-      Hi there, I am Justin 🐺
-
       - I am a software engineer living in New York City.
   socialIcons:
     - name: github
