@@ -2,7 +2,7 @@
 title = 'Justin Liang'
 +++
 
-![Invader Zim Gir](/gir.jpeg)
+![Invader Zim Gir](images/gir.jpeg)
 
 Hi, I'm Justin Liang.
 
