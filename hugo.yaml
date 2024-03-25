@@ -1,6 +1,6 @@
 baseURL: https://justinliang.me/
 languageCode: en-us
-title: Justin Liang Blog
+title: Justin Liang 
 theme: ["PaperMod"]
 
 menu:
@@ -14,7 +14,7 @@ menu:
 
 params:
   homeInfoParams:
-    Title: "Justin Liang Blog"
+    Title: "Justin Liang"
     Content: >
       Hi there, I am Justin 🐺
 
