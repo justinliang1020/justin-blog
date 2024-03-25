@@ -29,3 +29,4 @@ params:
     - name: linkedin
       title: Visit my Linkedin page
       url: https://www.linkedin.com/in/justinliang1020/
+  ShowTOC: true

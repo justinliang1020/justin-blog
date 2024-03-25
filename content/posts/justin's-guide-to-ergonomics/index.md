@@ -1,10 +1,11 @@
 +++
 title = "Justin's Guide to Computer Ergonomics"
 date = 2024-03-24
+summary = "Ergonomic Keyboards and Software"
 +++
 
 ![Ergonomic Keyboard + Anya](./ergo-anya.png)
-*My personal ergonomic setup*
+*My ergonomic setup*
 
 > Computers are fundamentally depressing because our body does not expect in its natural state to be motionless
 >
