@@ -87,10 +87,14 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 #### Desk/Chair
 
 ![standing-desk](./standing-desk.jpeg)
+*Generic standing desk stock photo*
 
 * Using a standing desk can improve shoulder pain due to better posture
 * Remember that no posture is the best posture. The human body didn't evolve for sitting still for long periods so remember to stretch regularly and change your sitting position if needed
 * A common problem is craning your head up or down to look at the screen. If this is happening, adjust the height of your laptop/monitor by adding objects like textbooks to make the top of your screen align to about eye level.
+
+![floor](./floor.jpg)
+*Remember! No posture is the best posture. Sometimes it's nice to be on the floor*
 
 ## Using Software Ergonomically
 
