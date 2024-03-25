@@ -4,7 +4,7 @@ date = 2024-03-24
 summary = "Ergonomic Keyboards and Software"
 +++
 
-![Ergonomic Keyboard + Anya](./ergo-anya.png)
+![Ergonomic Keyboard + Anya](images/ergo-anya.png)
 *My ergonomic setup*
 
 > Computers are fundamentally depressing because our body does not expect in its natural state to be motionless
@@ -34,10 +34,10 @@ The home row is (from left to right):
 * left hand: `asdf`
 * right hand: `jkl;`
 
-![Home Row Keyboard](./home-row-keyboard.png)
+![Home Row Keyboard](images/home-row-keyboard.png)
 *The Home Row*
 
-![Keyboard Labelled](./keyboard-labelled.jpg)
+![Keyboard Labelled](images/keyboard-labelled.jpg)
 *Touch Typing Keys*
 
 Reference: [Touch Typing](https://opentextbc.ca/computerstudies/chapter/the-base-position/)
@@ -50,7 +50,7 @@ The simplest and quickest way of modifying your existing keyboard for your perso
 
 Take for example the `escape` key. On standard keyboards, this key is placed in the top left corner, a very uncomfortable position to reach. Go ahead and try to press it on your keyboard (if applicable) while staying in the **home row**; pretty much impossible, right?
 
-![Macbook Escape Key](./macbook-escape-key.png)
+![Macbook Escape Key](images/macbook-escape-key.png)
 
 The solution to fixing this is to move the `escape` key to a more comfortable position. For example, it can be rebound to the `caps lock` key, a much more reachable key to press while also replacing a key with not much functionality (why press `caps lock` when you can hold `shift`?).
 
@@ -64,7 +64,7 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 
 #### Ergonomic Keyboard
 
-![Ergodox-ez](./ergodox-ez.jpeg)
+![Ergodox-ez](images/ergodox-ez.jpeg)
 *The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)*
 
 * Split keyboards can help open your shoulders and allow for better overall arm flexibility
@@ -76,7 +76,7 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 
 #### Ergonomic Mouse
 
-![logitech-mx](./logitech-mx.webp)
+![logitech-mx](images/logitech-mx.webp)
 *[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)*
 
 * A Vertical mouse is a good alternative to the basic mouse since it promotes healthier wrist pronation
@@ -86,14 +86,14 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 
 #### Desk/Chair
 
-![standing-desk](./standing-desk.jpeg)
+![standing-desk](images/standing-desk.jpeg)
 *Generic standing desk stock photo*
 
 * Using a standing desk can improve shoulder pain due to better posture
 * Remember that no posture is the best posture. The human body didn't evolve for sitting still for long periods so remember to stretch regularly and change your sitting position if needed
 * A common problem is craning your head up or down to look at the screen. If this is happening, adjust the height of your laptop/monitor by adding objects like textbooks to make the top of your screen align to about eye level.
 
-![floor](./floor.jpg)
+![floor](images/floor.jpg)
 *Remember! No posture is the best posture. Sometimes it's nice to be on the floor*
 
 ## Using Software Ergonomically
@@ -102,13 +102,13 @@ I find that maximizing keyboard use is important for computer ergonomics since i
 
 ### Level 1: Learn Keyboard Shortcuts (for everything!)
 
-![Spotify](./spotify-keyboard-shortcuts.png)
+![Spotify](images/spotify-keyboard-shortcuts.png)
 
 Invest time in learning the keyboard shortcuts of whatever software you use. It could be as simple as using `cmd+space` to open spotlight search (on MacOS) to learning the Spotify desktop app's keyboard shortcuts. Whatever it is, it will help you move faster on your computer, letting you spend less time on it.
 
 ### Level 2: Use Window Management Software
 
-![Rectangle](./rectangle.jpeg)
+![Rectangle](images/rectangle.jpeg)
 
 Window management software is important to keep your windows in a predictable place and managed via keyboard rather than manually dragging them. I would recommend [Rectangle](https://rectangleapp.com/) for MacOS since it's free OSS that does the job well.
 
