@@ -9,8 +9,8 @@ menu:
       url: about
     - name: Archive
       url: archives
-    - name: Links
-      url: links
+    - name: Lists
+      url: lists
 
 params:
   homeInfoParams:
