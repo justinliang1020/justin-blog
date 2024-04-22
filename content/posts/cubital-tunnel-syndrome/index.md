@@ -1,5 +1,5 @@
 +++
-title = 'Notes on personal nerve pain (possibly ulnar neuropathy)'
+title = 'Notes on personal nerve pain (possibly cubital tunnel syndrome)'
 date = 2024-04-21
 +++
 
