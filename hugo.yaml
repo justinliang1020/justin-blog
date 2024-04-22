@@ -11,6 +11,8 @@ menu:
       url: archives
     - name: Lists
       url: lists
+    - name: Journal
+      url: journal
 
 params:
   homeInfoParams:
@@ -27,4 +29,3 @@ params:
     - name: linkedin
       title: Visit my Linkedin page
       url: https://www.linkedin.com/in/justinliang1020/
-  ShowTOC: true
