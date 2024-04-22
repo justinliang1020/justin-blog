@@ -1,6 +1,6 @@
 baseURL: https://justinliang.me/
 languageCode: en-us
-title: Justin Liang 
+title: Justin Liang
 theme: ["PaperMod"]
 
 menu:
@@ -11,14 +11,12 @@ menu:
       url: archives
     - name: Lists
       url: lists
-    - name: Journal
-      url: journal
 
 params:
   homeInfoParams:
     Title: "Justin Liang"
     Content: >
-      - I am a software engineer living in New York City.
+      - I currently live in new york city. I write random thoughts on this website
   socialIcons:
     - name: github
       title: Visit my Github page
