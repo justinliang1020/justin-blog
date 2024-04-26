@@ -66,7 +66,7 @@ to promote upwards rotation of the scapula as to not crush the brachial plexus, 
 
 * serratus anterior: scapular push ups <https://www.youtube.com/shorts/Ng-iiDUd_fs>
 * upper trapezius: banded shoulder shrugs <https://youtu.be/dCI-Qa6Fu-Y?si=rjmiwUx08EXrkb8Y&t=105>
-* lower trapezius: <https://www.youtube.com/watch?v=kggLoTYDIvQ>
+* lower trapezius: <https://www.youtube.com/watch?v=_81ZePwztIA>
 
 ![scapular rotation](scapular_rotation.png)
 
