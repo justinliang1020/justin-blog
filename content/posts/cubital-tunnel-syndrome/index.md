@@ -3,7 +3,7 @@ title = 'Notes on personal nerve pain'
 date = 2024-04-21
 +++
 
-## NOTE
+# <https://www.youtube.com/watch?v=kggLoTYDIvQ># NOTE
 
 these are just notes for myself that i post publically. don't take this as real medical advice, i'm just experimenting to attempt to heal my chronic pain.
 
@@ -72,3 +72,11 @@ to promote upwards rotation of the scapula as to not crush the brachial plexus, 
 
 to watch: <https://www.youtube.com/watch?v=iAPcPM0PQhk>
 to read: <https://www.armoredheat.com/armored-heat-blog/scapular-upward-rotation>
+
+## update: 5/4/2024
+
+I feel substantially better (80%) this week after doing physical therapy exercises. These are some things that I believe helped me the most
+
+* extended elbow fist (forearm flexibility): <https://youtu.be/kIYDcsOpnyE?si=YkbtVc0HGiIUh_Ys&t=492>
+* rhomboid exercises here: <https://www.youtube.com/watch?v=3SoCJ1sUUYc&list=PL-zwjxeLNIeK2jtFgu2thpADgseOuVhbB&index=18>
+* also continued floor sleeping after pausing it (have been doing it for about 2 days, initially did it for about 1.5 weeks but paused)
