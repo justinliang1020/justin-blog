@@ -1,7 +1,8 @@
-+++
-title = 'Notes on personal nerve pain'
-date = 2024-04-21
-+++
+---
+title: 'Notes on personal nerve pain'
+date: 2024-04-21
+draft: true
+---
 
 # <https://www.youtube.com/watch?v=kggLoTYDIvQ># NOTE
 
