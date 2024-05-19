@@ -1,6 +1,7 @@
 ---
 title: "The Overuse of the Undo Button"
 date: 2024-05-18
+summary: "We change too quickly because we can undo so easily"
 ---
 
 When I was in elementary school, we were writing short essays in the computer lab to learn how to use basic word processor software (Microsoft Word). Feeling mischievous, I highlighted my entire essay and changed the font to be `Wingdings` for fun. The entire page became filled with lines like this
