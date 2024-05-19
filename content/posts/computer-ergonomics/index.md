@@ -2,10 +2,9 @@
 title: "Justin's Guide to Computer Ergonomics"
 date: 2024-03-24
 summary: "Ergonomic Keyboards and Software"
-cover: 
-  image: "images/ergo-anya.png"
-  linkFullImages: true
 ---
+
+![ergonomic setup](images/ergo-anya.png)
 
 > Computers are fundamentally depressing because our body does not expect in its natural state to be motionless
 >
