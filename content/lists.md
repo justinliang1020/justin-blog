@@ -2,11 +2,23 @@
 title="Cool Lists"
 +++
 
-## Keyboard Shortcuts (MacOS)
+## Technologies I plan to use
 
-* `cmd+shift+tab` -- opposite of `cmd+tab`
-* `cmd+shift+p` -- while in chrome devtools, open chrome devtools command pallete
-* `cmd+alt+i` -- open chrome devtools
+### golang
+
+<https://go.dev/>
+
+<https://echo.labstack.com/docs/quick-start>
+
+<https://templ.guide/>
+
+### javascript
+
+<https://htmx.org/>
+
+<https://github.com/gnat/surreal>
+
+<https://github.com/gnat/css-scope-inline/tree/main>
 
 ## Links
 
