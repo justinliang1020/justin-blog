@@ -2,7 +2,7 @@
 title="Cool Lists"
 +++
 
-## Technologies I plan use
+## Technologies I use in my free time
 
 ### golang
 
@@ -16,15 +16,13 @@ title="Cool Lists"
 
 <https://htmx.org/>
 
-<https://github.com/gnat/surreal>
-
-<https://github.com/gnat/css-scope-inline/tree/main>
-
-## Code Snippets
+## Code stuff
 
 * go sqlite3 driver simple example: <https://github.com/mattn/go-sqlite3/blob/master/_example/simple/simple.go>
 * go htmx tailwind crud example: <https://github.com/jritsema/go-htmx-tailwind-example>
 * go database/sql tutorial: <http://go-database-sql.org/index.html>
+* net/http opinionated practices: <https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/>
+* learn go with tests: <https://quii.gitbook.io/learn-go-with-tests>
 
 ## Random
 
