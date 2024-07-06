@@ -1,7 +1,7 @@
 baseURL: https://justinliang.me/
 languageCode: en-us
 title: Justin Liang
-theme: ["PaperMod"]
+theme: ["JustinTheme"]
 
 menu:
   main:
