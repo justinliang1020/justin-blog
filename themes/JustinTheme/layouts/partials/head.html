@@ -2,5 +2,5 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Site.Params.title | default "My Site" }}</title>
-  <link rel="stylesheet" type="text/css" href="{{ absURL `styles/style.css` }}">
+  <link rel="stylesheet" type="text/css" href="{{ (resources.Get `css/style.css`).RelPermalink }}">
 </head>
