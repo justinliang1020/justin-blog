@@ -3,27 +3,5 @@ languageCode: en-us
 title: Justin Liang
 theme: ["JustinTheme"]
 
-menu:
-  main:
-    - name: About
-      url: about
-    - name: Archive
-      url: archives
-    - name: Lists
-      url: lists
-
 params:
-  homeInfoParams:
-    Title: "Justin Liang"
-    Content: >
-      - I currently live in new york city. I write random thoughts on this website
-  socialIcons:
-    - name: github
-      title: Visit my Github page
-      url: https://github.com/justinliang1020
-    - name: twitter
-      title: Visit my Twitter page
-      url: https://twitter.com/justinliang1020
-    - name: linkedin
-      title: Visit my Linkedin page
-      url: https://www.linkedin.com/in/justinliang1020/
+  title: "Justin Liang"
