@@ -1,6 +1,11 @@
 {{ define "main"}}
-<h2>{{ .Title }}</h2>
-{{ if .PublishDate}}
+<h1>{{ .Title }}</h1>
+{{ if .Summary}}
+<p><i>{{ .Summary }}</i></p>
+{{ end }}
+{{ if (ne .Lastmod .PublishDate) }}
+<p> {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}</p>
+{{ else if .PublishDate}}
 <p>{{ time.Format "January 2, 2006" .PublishDate }}</p>
 {{ end }}
 {{ if .Params.Tags }}
