@@ -1,12 +1,13 @@
 {{ define "main"}}
 <h1>{{ .Title }}</h1>
 {{ if .Summary}}
-<p><i>{{ .Summary }}</i></p>
+<p style="font-size: .9em;"><i>{{ .Summary }}</i></p>
 {{ end }}
 {{ if (ne .Lastmod .PublishDate) }}
-<p> {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}</p>
+<span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}
+    ~</em></span>
 {{ else if .PublishDate}}
-<p>{{ time.Format "January 2, 2006" .PublishDate }}</p>
+<span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} ~</em></span>
 {{ end }}
 {{ if .Params.Tags }}
 Tags: {{ partial "tags.html" . -}}
