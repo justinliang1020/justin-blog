@@ -4,13 +4,13 @@
       {{.Title}}
     </a>
   </h3>
+  {{ if .Summary}}
+  <p><i>{{ .Summary | truncate 60 }}</i></p>
+  {{ end }}
   {{ if .PublishDate }}
-  <p>Date: {{ time.Format "January 2, 2006" .PublishDate }}</p>
+  <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} ~</em></span>
   {{ end }}
   {{ if .Params.Tags }}
   <p>Tags: {{- partial "tags.html" . -}}</p>
-  {{ end }}
-  {{ if .Summary}}
-  <p>Summary: {{ .Summary }}</p>
   {{ end }}
 </li>
