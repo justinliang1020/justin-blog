@@ -1,16 +1,18 @@
 {{ define "main"}}
-<h1>{{ .Title }}</h1>
-{{ if .Summary}}
-<p style="font-size: .9em;"><i>{{ .Summary }}</i></p>
-{{ end }}
-{{ if (ne .Lastmod .PublishDate) }}
-<span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}
-    ~</em></span>
-{{ else if .PublishDate}}
-<span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} ~</em></span>
-{{ end }}
-{{ if .Params.Tags }}
-Tags: {{ partial "tags.html" . -}}
-{{ end }}
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <h1>{{ .Title }}</h1>
+  {{ if .Summary}}
+  <p style="font-size: .9em;"><i>{{ .Summary }}</i></p>
+  {{ end }}
+  {{ if (ne .Lastmod .PublishDate) }}
+  <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}
+      ~</em></span>
+  {{ else if .PublishDate}}
+  <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} ~</em></span>
+  {{ end }}
+  {{ if .Params.Tags }}
+  Tags: {{ partial "tags.html" . -}}
+  {{ end }}
+</div>
 <div>{{ .Content }}</div>
 {{ end }}
