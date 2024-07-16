@@ -1,7 +1,6 @@
 ---
 title: "How Justin Makes Smoothies"
 date: 2024-07-14
-draft: true
 summary: My favorite fruit delivery mechanism
 ---
 
