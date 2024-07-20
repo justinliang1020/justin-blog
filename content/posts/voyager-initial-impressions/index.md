@@ -1,5 +1,5 @@
 ---
-title: "Justin's First Impressions the ZSA Voyager Keyboard"
+title: "Justin's First Impressions of the ZSA Voyager Keyboard"
 date: 2024-07-11
 summary: A beautiful split keyboard
 ---
