@@ -119,15 +119,3 @@ hr {
 .theme-toggle:hover {
   background-color: var(--code-bg-color);
 }
-
-body.dark-theme {
-  --bg-color: #1a1a1a;
-  --text-color: #e0e0e0;
-  --link-color: #4da6ff;
-  --link-hover-color: #80bfff;
-  --heading-color: #ffffff;
-  --code-bg-color: #2a2a2a;
-  --code-color: #ff9966;
-  --blockquote-color: #cccccc;
-  --border-color: #333333;
-}
