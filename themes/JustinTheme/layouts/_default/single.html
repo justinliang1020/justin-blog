@@ -5,7 +5,7 @@
   <p style="font-size: .9em;"><i>{{ .Summary }}</i></p>
   {{ end }}
   {{ if (ne .Lastmod .PublishDate) }}
-  <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} - {{ time.Format "January 2, 2006" .Lastmod }}
+  <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} => {{ time.Format "January 2, 2006" .Lastmod }}
       ~</em></span>
   {{ else if .PublishDate}}
   <span><em>~ {{ time.Format "January 2, 2006" .PublishDate }} ~</em></span>
