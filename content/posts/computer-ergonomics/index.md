@@ -65,7 +65,10 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 #### Ergonomic Keyboard
 
 ![Ergodox-ez](images/ergodox-ez.jpeg)
+
 _The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)_
+
+(Update July 2024: I currently use the ZSA Voyager, my initial impressions [can be found here](http://localhost:1313/posts/voyager-initial-impressions/))
 
 - Split keyboards can help open your shoulders and allow for better overall arm flexibility
 - Tenting (angling the split keyboard) promotes healthier wrist pronation
@@ -77,6 +80,7 @@ _The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)_
 #### Ergonomic Mouse
 
 ![logitech-mx](images/logitech-mx.webp)
+
 _[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)_
 
 - A Vertical mouse is a good alternative to the basic mouse since it promotes healthier wrist pronation
