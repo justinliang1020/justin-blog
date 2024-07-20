@@ -1,10 +1,11 @@
 ---
 title: "Justin's Guide to Computer Ergonomics"
 date: 2024-03-24
+lastmod: 2024-07-20
 summary: "Ergonomic Keyboards and Software"
 ---
 
-![ergonomic setup](images/ergo-anya.png)
+![ergonomic setup](images/voyager.png)
 
 > Computers are fundamentally depressing because our body does not expect in its natural state to be motionless
 >
@@ -30,14 +31,14 @@ While it's sometimes associated with being able to type without looking at your 
 
 The home row is (from left to right):
 
-* left hand: `asdf`
-* right hand: `jkl;`
+- left hand: `asdf`
+- right hand: `jkl;`
 
 ![Home Row Keyboard](images/home-row-keyboard.png)
-*The Home Row*
+_The Home Row_
 
 ![Keyboard Labelled](images/keyboard-labelled.jpg)
-*Touch Typing Keys*
+_Touch Typing Keys_
 
 Reference: [Touch Typing](https://opentextbc.ca/computerstudies/chapter/the-base-position/)
 
@@ -64,36 +65,36 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 #### Ergonomic Keyboard
 
 ![Ergodox-ez](images/ergodox-ez.jpeg)
-*The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)*
+_The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)_
 
-* Split keyboards can help open your shoulders and allow for better overall arm flexibility
-* Tenting (angling the split keyboard) promotes healthier wrist pronation
-* Lower actuation force switches make it easier to type
-* Programmable keybindings and layering reduce the need to awkwardly stretch for far keys
-* Thumb clusters allow you to make better use of your strongest finger (rather than just devoting it to a space bar)
-* Columnar keyboard layouts promote proper touch typing
+- Split keyboards can help open your shoulders and allow for better overall arm flexibility
+- Tenting (angling the split keyboard) promotes healthier wrist pronation
+- Lower actuation force switches make it easier to type
+- Programmable keybindings and layering reduce the need to awkwardly stretch for far keys
+- Thumb clusters allow you to make better use of your strongest finger (rather than just devoting it to a space bar)
+- Columnar keyboard layouts promote proper touch typing
 
 #### Ergonomic Mouse
 
 ![logitech-mx](images/logitech-mx.webp)
-*[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)*
+_[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)_
 
-* A Vertical mouse is a good alternative to the basic mouse since it promotes healthier wrist pronation
-* Reduce your mouse sensitivity if you need to reduce awkward forearm movement, increase your mouse sensitivity if you need to reduce awkward wrist movement
-* Touchpads are good for reducing awkward forearm movements when
-* Track balls are also popular in the ergonomic space (I haven't personally tried them)
+- A Vertical mouse is a good alternative to the basic mouse since it promotes healthier wrist pronation
+- Reduce your mouse sensitivity if you need to reduce awkward forearm movement, increase your mouse sensitivity if you need to reduce awkward wrist movement
+- Touchpads are good for reducing awkward forearm movements when
+- Track balls are also popular in the ergonomic space (I haven't personally tried them)
 
 #### Desk/Chair
 
 ![standing-desk](images/standing-desk.jpeg)
-*Generic standing desk stock photo*
+_Generic standing desk stock photo_
 
-* Using a standing desk can improve shoulder pain due to better posture
-* Remember that no posture is the best posture. The human body didn't evolve for sitting still for long periods so remember to stretch regularly and change your sitting position if needed
-* A common problem is craning your head up or down to look at the screen. If this is happening, adjust the height of your laptop/monitor by adding objects like textbooks to make the top of your screen align to about eye level.
+- Using a standing desk can improve shoulder pain due to better posture
+- Remember that no posture is the best posture. The human body didn't evolve for sitting still for long periods so remember to stretch regularly and change your sitting position if needed
+- A common problem is craning your head up or down to look at the screen. If this is happening, adjust the height of your laptop/monitor by adding objects like textbooks to make the top of your screen align to about eye level.
 
 ![floor](images/floor.jpg)
-*Remember! No posture is the best posture. Sometimes it's nice to be on the floor*
+_Remember! No posture is the best posture. Sometimes it's nice to be on the floor_
 
 ## Using Software Ergonomically
 
@@ -119,17 +120,17 @@ Your web browser is most likely your most used computer software, but it isn't n
 
 Although it can seem daunting at first to learn, the core of Vimium is in these 5 keys:
 
-* `f`: click on links/buttons on a webpage
-* `k`: scroll up
-* `j`: scroll down
-* `H` (capital H): go backward one page
-* `L` (capital L): go forward one page
+- `f`: click on links/buttons on a webpage
+- `k`: scroll up
+- `j`: scroll down
+- `H` (capital H): go backward one page
+- `L` (capital L): go forward one page
 
 In combination with these default browser keybindings, you can eliminate 95% of your mouse usage. (Note these are on Google Chrome MacOS)
 
-* `ctrl+tab`: jump to the next open tab
-* `ctrl+shift+tab`: jump to the previous open tab
-* `cmd+tab`: create a new tab
+- `ctrl+tab`: jump to the next open tab
+- `ctrl+shift+tab`: jump to the previous open tab
+- `cmd+tab`: create a new tab
 
 [Install Vimium on Chrome here](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
