@@ -1,6 +1,6 @@
 # justin liang
 
-**this website is intended to function as public documentation/diary for Justin Liang**
+**this website is intended to function as public documentation for Justin Liang**
 
 - Justin currently lives in New York City
 - Justin works as an software engineer at Atlassian
