@@ -1,7 +1,7 @@
 :root {
   --bg-color: #ffffff;
   --text-color: #333333;
-  --link-color: #0066cc;
+  --link-color: #dcdcdc;
   --link-hover-color: #004080;
   --heading-color: #000000;
   --code-bg-color: #f0f0f0;
@@ -14,7 +14,7 @@
   :root {
     --bg-color: #1a1a1a;
     --text-color: #e0e0e0;
-    --link-color: #4da6ff;
+    --link-color: #dcdcdc;
     --link-hover-color: #80bfff;
     --heading-color: #ffffff;
     --code-bg-color: #2a2a2a;
@@ -36,13 +36,31 @@ body {
 }
 
 nav {
-  margin: 20px 0;
+  margin: 15px 0 0;
 }
 
 nav a {
-  margin-right: 10px;
   font-size: 18px;
+  border-radius: 1.5em;
+  border: 1px solid;
+  padding: 0.5em 0.8em;
+  border-color: rgb(61, 66, 69);
+  color: rgb(153, 153, 153);
+}
+
+body :not(nav) a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+a {
   color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--link-hover-color);
 }
 
 @media screen and (max-width: 820px) {
@@ -64,16 +82,6 @@ ul {
 
 .list-item {
   margin-bottom: 20px;
-}
-
-a {
-  color: var(--link-color);
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: var(--link-hover-color);
 }
 
 iframe {
