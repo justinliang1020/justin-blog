@@ -3,7 +3,13 @@ title: "About Justin"
 summary: "What is Justin?"
 ---
 
-justin is human
+## justin is human
+
+| ![Nut Spillage](./nut_spill.png) |
+| :------------------------------: |
+|      _i spilled my cashews_      |
+
+justin is currently living and breathing
 
 ---
 
