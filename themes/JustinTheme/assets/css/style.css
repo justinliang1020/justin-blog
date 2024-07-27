@@ -86,11 +86,10 @@ ul {
   margin-bottom: 20px;
 }
 
-iframe {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid var(--border-color);
-}
+/*iframe {*/
+/*  max-width: 100%;*/
+/*  height: auto;*/
+/*}*/
 
 img {
   max-width: 100%;
