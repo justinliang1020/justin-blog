@@ -1,3 +1,19 @@
 {{ define "main" }}
-{{ .Content }}
+
+<h1 style="text-align: center;">
+  justin is online
+</h1>
+
+<p>hello internet! Justin is on the web =^..^=</p>
+
+<input type="image" src="/closeup-cat.png" name="audio-toggle" onclick="playAudio()"
+  style="width: 300px; border: dashed 2px">
+
+<script>
+  function playAudio() {
+    var audio = new Audio('/meow.mp3')
+    audio.play()
+  }
+</script>
+
 {{ end }}
