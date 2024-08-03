@@ -13,14 +13,8 @@ justin is currently living and breathing
 
 ---
 
-**music i'm listening to...**
-
-{{< spotify_playlist id=1tEYthwrXUATaPWaYKQ9yJ >}}
-
----
-
 **websites i'm reading...**
 
-{{< iframe src="https://www.are.na/justin-liang/hacker-tg2hg9wfoci/embed" title="Justin's Are.na Channel" >}} {{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< iframe src="https://www.are.na/justin-liang/hacker-tg2hg9wfoci/embed" title="Justin's Are.na Channel" loading="lazy" >}} {{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ---
