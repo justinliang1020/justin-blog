@@ -62,6 +62,10 @@ nav a {
   color: var(--nav-link-color);
 }
 
+nav span {
+  font-size: 18px
+}
+
 body :not(nav) a {
   text-decoration: underline;
   text-decoration-style: dotted;
@@ -117,6 +121,10 @@ hr {
 
 @media screen and (max-width: 820px) {
   nav a {
+    font-size: 22px;
+  }
+
+  nav span {
     font-size: 22px;
   }
 }
