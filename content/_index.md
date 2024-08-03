@@ -15,6 +15,7 @@ Justin has many goals, but above all he cares about understanding and simplifyin
 [Are.na](https://www.are.na/justin-liang/channels)
 [Spotify](https://open.spotify.com/user/12149388936)
 [Github](https://github.com/justinliang1020)
+[GoodReads](https://www.goodreads.com/user/show/170472734-justin)
 ~
 
 ![rat-spinning](rat-spinning.gif)
