@@ -28,7 +28,7 @@ Justin has many goals, but above all he cares about understanding and simplifyin
 
 **websites i'm reading...**
 
-{{< iframe src="https://www.are.na/justin-liang/hacker-tg2hg9wfoci/embed" title="Justin's Are.na Channel" loading="lazy" >}} {{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< iframe src="https://www.are.na/justin-liang/hacker-tg2hg9wfoci/embed" title="Justin's Are.na Channel"  >}} {{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ---
 
