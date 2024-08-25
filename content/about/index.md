@@ -3,14 +3,7 @@ title: "About Justin"
 summary: "What is Justin?"
 ---
 
-Justin is a software wanderer, split keyboarder, and floor sleeper.
-
-In 2022, Justin interned at [Atlassian](https://www.atlassian.com/) in San Francisco and graduated from Georgia Tech with a BS in computer science.
-Later in 2023, he started posting computing-related content on Twitter and worked as a Hacker in Residence at [Chroma](https://www.trychroma.com/), building tools to improve developer usefulness of semantic embeddings.
-After that, Justin returned as a full time Site Reliability Engineer at Atlassian, this time in New York City.
-At Atlassian, he primarily works on distributed systems and devops shenanigans to improve the reliability and performance of [bitbucket.org](https://bitbucket.org/product/).
-
-Justin has many goals, but above all he cares about understanding and simplifying systems.
+Justin is a software wanderer, split keyboarder, and floor sleeper. He currently works as a site reliability engineer at Atlassian. In his spare time, he enjoys reading books, touching grass, and wearing all black clothes.
 
 ![rat-spinning](./images/rat-spinning.gif)
 
