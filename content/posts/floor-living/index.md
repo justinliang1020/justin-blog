@@ -24,3 +24,7 @@ Returning to the floor can help combat this pain.
 Just try it; sit on your own floor, legs-crossed and palms on the floor.
 Feel the different points of pressure your able to apply through your palms, up your arms and through your shoulders.
 Realize how stiff we as humans our today due to our missing link to the floor.
+
+A related [are.na channel](https://www.are.na/justin-liang/floor-living-qyv0qj6swzs):
+
+{{< iframe src="https://www.are.na/justin-liang/floor-living-qyv0qj6swzs/embed" title="Justin's Are.na Channel"  >}} {{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
