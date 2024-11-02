@@ -46,6 +46,7 @@ main {
   padding: 0 10px;
   background-color: var(--bg-color);
   color: var(--text-color);
+  border: 3px solid black;
 }
 
 nav {
