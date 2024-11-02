@@ -9,6 +9,7 @@
   --code-color: #d73a49;
   --blockquote-color: #666666;
   --border-color: #e0e0e0;
+  --bg-background-image: url("/shapes.png")
 }
 
 @media (prefers-color-scheme: dark) {
