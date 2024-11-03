@@ -44,3 +44,7 @@ I got a sense of nostalgia from this game, it felt like child-like play. Rules w
 I'm personally surprised I could remember details from each of the different sticks even weeks later. For context I've felt my memory begin to fade over the past year from the chaos of graduating college and moving to New York City. Amidst the jumbled memories of others' anecdotes and details, I can remember what each stick looked like and the passion of both teams' presenting them.
 
 In the future, I want to do more activities like this: dynamic, unserious, fun.
+
+| ![Stick](./stick.jpg)                         |
+| --------------------------------------------- |
+| the one picture of stick I remembered to take |
