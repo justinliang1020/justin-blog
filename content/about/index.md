@@ -15,6 +15,7 @@ Justin is a software wanderer, split keyboarder, and floor sleeper. He currently
 [Spotify](https://open.spotify.com/user/12149388936)
 [Github](https://github.com/justinliang1020)
 [Goodreads](https://www.goodreads.com/user/show/170472734-justin)
+[TikTok](https://www.tiktok.com/@justin71488)
 ~
 
 ---
