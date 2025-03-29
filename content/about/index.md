@@ -5,7 +5,7 @@ summary: "What is Justin?"
 
 Justin is a software wanderer, split keyboarder, and floor sleeper. He currently works as a site reliability engineer at Atlassian. In his spare time, he enjoys reading books, touching grass, and wearing all black clothes.
 
-![rat-spinning](./images/rat-spinning.gif)
+![rat-spinning](/rat-spinning.gif)
 
 **Links:**
 ~
@@ -26,6 +26,6 @@ Justin is a software wanderer, split keyboarder, and floor sleeper. He currently
 
 ---
 
-| ![Nut Spillage](./nut_spill.png) |
-| :------------------------------: |
-|      _i spilled my cashews_      |
+| ![Nut Spillage](/nut_spill.png) |
+| :-----------------------------: |
+|     _i spilled my cashews_      |

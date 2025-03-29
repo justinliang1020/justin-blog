@@ -5,7 +5,7 @@ lastmod: 2024-07-20
 summary: "Ergonomic Keyboards and Software"
 ---
 
-![ergonomic setup](images/voyager.png)
+![ergonomic setup](/voyager.png)
 
 > Computers are fundamentally depressing because our body does not expect in its natural state to be motionless
 >
@@ -34,7 +34,7 @@ The home row is (from left to right):
 - left hand: `asdf`
 - right hand: `jkl;`
 
-![Home Row Keyboard](images/home-row-keyboard.png)
+![Home Row Keyboard](/home-row-keyboard.png)
 _The Home Row_
 
 ![Keyboard Labelled](images/keyboard-labelled.jpg)
@@ -50,7 +50,7 @@ The simplest and quickest way of modifying your existing keyboard for your perso
 
 Take for example the `escape` key. On standard keyboards, this key is placed in the top left corner, a very uncomfortable position to reach. Go ahead and try to press it on your keyboard (if applicable) while staying in the **home row**; pretty much impossible, right?
 
-![Macbook Escape Key](images/macbook-escape-key.png)
+![Macbook Escape Key](/macbook-escape-key.png)
 
 The solution to fixing this is to move the `escape` key to a more comfortable position. For example, it can be rebound to the `caps lock` key, a much more reachable key to press while also replacing a key with not much functionality (why press `caps lock` when you can hold `shift`?).
 
@@ -64,7 +64,7 @@ Buying the correct ergonomic setup is a highly personal process. Because of that
 
 #### Ergonomic Keyboard
 
-![Ergodox-ez](images/ergodox-ez.jpeg)
+![Ergodox-ez](/ergodox-ez.jpeg)
 
 _The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)_
 
@@ -90,7 +90,7 @@ _[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-ve
 
 #### Desk/Chair
 
-![standing-desk](images/standing-desk.jpeg)
+![standing-desk](/standing-desk.jpeg)
 _Generic standing desk stock photo_
 
 - Using a standing desk can improve shoulder pain due to better posture
@@ -106,13 +106,13 @@ I find that maximizing keyboard use is important for computer ergonomics since i
 
 ### Level 1: Learn Keyboard Shortcuts (for everything!)
 
-![Spotify](images/spotify-keyboard-shortcuts.png)
+![Spotify](/spotify-keyboard-shortcuts.png)
 
 Invest time in learning the keyboard shortcuts of whatever software you use. It could be as simple as using `cmd+space` to open spotlight search (on MacOS) to learning the Spotify desktop app's keyboard shortcuts. Whatever it is, it will help you move faster on your computer, letting you spend less time on it.
 
 ### Level 2: Use Window Management Software
 
-![Rectangle](images/rectangle.jpeg)
+![Rectangle](/rectangle.jpeg)
 
 Window management software is important to keep your windows in a predictable place and managed via keyboard rather than manually dragging them. I would recommend [Rectangle](https://rectangleapp.com/) for MacOS since it's free OSS that does the job well.
 
