@@ -37,7 +37,7 @@ The home row is (from left to right):
 ![Home Row Keyboard](/home-row-keyboard.png)
 _The Home Row_
 
-![Keyboard Labelled](images/keyboard-labelled.jpg)
+![Keyboard Labelled](/keyboard-labelled.jpg)
 _Touch Typing Keys_
 
 Reference: [Touch Typing](https://opentextbc.ca/computerstudies/chapter/the-base-position/)
@@ -79,7 +79,7 @@ _The [Ergodox-EZ](https://ergodox-ez.com/) (my choice of ergonomic keyboard)_
 
 #### Ergonomic Mouse
 
-![logitech-mx](images/logitech-mx.webp)
+![logitech-mx](/logitech-mx.webp)
 
 _[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)_
 
@@ -97,7 +97,7 @@ _Generic standing desk stock photo_
 - Remember that no posture is the best posture. The human body didn't evolve for sitting still for long periods so remember to stretch regularly and change your sitting position if needed
 - A common problem is craning your head up or down to look at the screen. If this is happening, adjust the height of your laptop/monitor by adding objects like textbooks to make the top of your screen align to about eye level.
 
-![floor](images/floor.jpg)
+![floor](/floor.jpg)
 _Remember! No posture is the best posture. Sometimes it's nice to be on the floor_
 
 ## Using Software Ergonomically
