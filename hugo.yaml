@@ -1,7 +1,6 @@
 baseURL: https://justinliang.me/
 languageCode: en-us
 title: Justin Liang
-theme: ["JustinTheme"]
 
 params:
   title: "Justin Liang"
