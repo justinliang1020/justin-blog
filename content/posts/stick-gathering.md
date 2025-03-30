@@ -45,6 +45,6 @@ I'm personally surprised I could remember details from each of the different sti
 
 In the future, I want to do more activities like this: dynamic, unserious, fun.
 
-| ![Stick](/stick.jpg)                          |
+| ![Stick](/justin-blog/attachments/stick.jpg)  |
 | --------------------------------------------- |
 | the one picture of stick I remembered to take |

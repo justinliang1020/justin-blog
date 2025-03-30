@@ -4,7 +4,7 @@ date: 2024-07-11
 summary: A beautiful split keyboard
 ---
 
-![Justin's Voyager Setup](/voyager.png)
+![Justin's Voyager Setup](/justin-blog/attachments/voyager.png)
 
 I ordered the ZSA voyager after having the Ergodox EZ for over a year.
 It re-ignited an interest for finding the optimal keyboard layout to balance everything I needed from a keyboard.
