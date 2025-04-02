@@ -9,7 +9,7 @@
   --code-color: #d73a49;
   --blockquote-color: #666666;
   --border-color: #e0e0e0;
-  --bg-background-image: url("/shapes.png")
+  --bg-background-image: url("/justin-blog/attachments/shapes.png");
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,7 +37,9 @@ body {
   max-width: 800px;
   margin: 0 auto;
   background: var(--bg-color) var(--bg-background-image);
-  transition: background-color 0.3s, color 0.3s;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
   min-height: 100vh;
 }
 
